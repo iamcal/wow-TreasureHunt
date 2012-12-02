@@ -1,0 +1,8 @@
+## Interface: 50100
+## Title : TreasureHunt
+## Notes: Track your progress in the treasure hunting achievements
+## Author: Cal Henderson (Bees on Hyjal-US)
+## Version: 1.0
+## Dependencies: 
+
+TreasureHunt.lua
