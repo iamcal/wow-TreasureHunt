@@ -5,4 +5,4 @@ WoW addon to track items for <a href="http://www.wowhead.com/achievement=7284">I
 ## Usage
 
     /th - shows treasure left to find
-    /ha all - shows status of all treasure items
+    /th all - shows status of all treasure items
