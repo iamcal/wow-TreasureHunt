@@ -76,7 +76,12 @@ function SlashCmdList.TREASUREHUNT(msg, editBox)
 		local num = zone_nums[i];
 		local got = zone_gots[i] or 0;
 
-		print(string.format("%s: %d/%d", i, got, num));
+
+		local zone = string.format("%s: %d/%d", i, got, num);
+		if (got == num) then
+			zone = '|cFF00FF00' .. zone;
+		end;
+		print(zone);
 
 		local j,k
 
