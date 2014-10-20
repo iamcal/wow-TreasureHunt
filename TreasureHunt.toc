@@ -1,4 +1,4 @@
-## Interface: 50300
+## Interface: 50400
 ## Title : TreasureHunt
 ## Notes: Track your progress in the treasure hunting achievements
 ## Author: Cal Henderson (Bees on Hyjal-US)
